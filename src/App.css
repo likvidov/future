@@ -1,0 +1,11 @@
+.App {
+  margin-top: 20px;
+  text-align: center;
+}
+
+react-bs-table-pagination {
+  display: flex;
+  max-width: calc(100% - 50px);
+  justify-content: center;
+  align-items: center;
+}
